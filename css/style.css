@@ -74,7 +74,7 @@ header a:hover {
 }
 
 #press img {
-  transition: border-color 0.5s ease;
+  transition: border-color 2s ease;
   border: 5px #ccc solid;
 	padding: 1px;
 }
@@ -87,5 +87,3 @@ footer {
 	text-align: right;
 	background: #fff;
 }
-
-
